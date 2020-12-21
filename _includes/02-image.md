@@ -5,4 +5,4 @@
 
 
 
-![Image of Yaktocat](dmoullet505/markdown-portfolio/_includes/github-yaktocat.png)
+![Image of Yaktocat](https://github.com/dmoullet505/markdown-portfolio/blob/add-images-links/_includes/github-yaktocat.png)
