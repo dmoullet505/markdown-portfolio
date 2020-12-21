@@ -5,4 +5,4 @@
 
 
 
-![Image of Yaktocat]
+![Image of Yaktocat]_includes/github-yaktocat.png
